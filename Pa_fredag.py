@@ -1,1 +1,1 @@
-xprint("Tyge & Sesill på Fredag?")
+print("Tyge & Sesill på Fredag?")
