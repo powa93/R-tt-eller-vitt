@@ -1,1 +1,1 @@
-print("Tyge & Sesill på Lördag?")
+print("Tyge & Sesill på Fredag?")
